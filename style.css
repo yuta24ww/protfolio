@@ -1,0 +1,305 @@
+.あ{
+  width: 100%;
+  margin: 10px;
+  .logo{
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background-image: url(../level4/img/キャプチャ.PNG);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+  .nav_left{
+    display: inline-block;
+    float: left;
+    list-style: none;
+    color: #333;
+    li{
+      float: left;
+      padding-left: 20px;
+      a{
+        color: black;
+      }
+    }
+  }
+  .nav_right{
+    display: inline-block;
+    float: right;
+    list-style: none;
+    color: #333;
+    li{
+      float: left;
+      padding-left: 20px;
+     .cost{
+        font-weight: border;
+      }
+      a{
+        color: white;
+        padding: 10px;
+        background-color: red;
+        border-radius: 5px;
+      }
+    }
+  }
+}
+
+.い{
+  position: relative;
+  height: 600px;
+  background-image: url(https://a0.muscache.com/pictures/9d08d356-59b9-4ac4-9f41-5b9c13c2b211.jpg);
+  width: 1200px;
+  background-repeat: no-repeat;
+  margin: 0 auto;
+  .infobox{
+    position: absolute;
+    top: 60px;
+    right: 80px;
+    background-color: white;
+    border-radius: 5px;
+    width: 400px;
+    height: 500px;
+    padding: 30px;
+    .top_head{
+      h2{font-weight: bold;}
+    }
+    .top_text{
+      p{font-weight: bold;}
+    }
+    .nagoya{
+      width: 100%;
+      margin-bottom: 10px;
+    }
+    .input_input{
+      display: flex;
+      width: 100%;
+      .marumaru{
+        width: 170px;
+        margin-right: 20px;
+      }
+      .guest{
+        width: 150px;
+      }
+    }
+    >p{
+      font-size: 35px;
+      font-weight: bold;
+      span{
+        font-size: 13px;
+      }
+    }
+    a{
+      display: block;
+      text-align: center;
+      padding: 10px 0;
+      border-radius: 5px;
+      width: 100%;
+      color: white;
+      background-color: rgb(207, 85, 85);
+    }
+  }
+}
+
+.う{
+  margin: 60px 100px 80px;
+  .conteiner{
+    margin: 20px 50px;
+    display: flex;
+    a{
+      width: 100px;
+    }
+    b{
+      width: 100px;
+    }
+  }
+}
+
+.え{
+  .conteiner{
+    display: flex;
+  }
+}
+
+.お{
+  margin: 50px;
+  .conteiner{
+    display: flex;
+  }
+  .b{
+    background-image: url("https://a0.muscache.com/pictures/8e6c68cc-e714-4849-bad9-464abf58e84a.jpg");
+    width: 400px;
+    height: 400px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+}
+
+.か{
+  margin: 50px;
+  .conteiner{
+    display: flex;
+  }
+  .c{
+    text-align: center;
+    background-image:url("https://a0.muscache.com/pictures/bb358a46-fa25-4895-b5fd-048a386bdcac.jpg");
+    width: 1200px;
+    height: 500px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+}
+
+.き{
+  .conteiner{
+    display: flex;
+  }
+}
+
+.く{
+  .conteiner{
+    display: flex;
+  }
+  .a{
+    background-image: url("https://a0.muscache.com/pictures/4e8524b4-205e-4fdf-9f0a-f1f36905c8f6.jpg");
+    width: 400px;
+    height: 400px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+}
+
+.け{
+  .conteiner{
+    display: flex;
+    margin: 0 auto;
+  }
+  .a{
+    width: 400px;
+    margin: 0 auto;
+  }
+  .b{
+    width: 400px;
+    margin: 0 auto;
+  }
+  .c{
+    width: 400px;
+    margin: 0 auto;
+  }
+}
+
+.こ{
+  .conteiner{
+    display: flex;
+  }
+}
+
+.さ{
+  .conteiner{
+    display: flex;
+  }
+  .a a{
+    display: block;
+  }
+  .b a{
+    display: block;
+  }
+}
+
+.し{
+  margin: 30px 230px;
+  .conteiner{
+    display: flex;
+    justify-content: space-around;
+  }
+  .a{
+    h2,h3{
+      font-size: 15px;
+      color: #333;
+    }
+    .host{
+      background-image: url("https://a0.muscache.com/pictures/489faa5d-9519-48fa-aa0e-fe9673165e43.jpg");
+      width: 300px;
+      height: 150px;
+      background-position: center center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+  }
+  .b{
+    h2,h3{
+      font-size: 15px;
+      color: #333;
+    }
+    .host{
+      background-image: url("https://a0.muscache.com/pictures/b77eb430-aa14-4ceb-a832-109341f798cd.jpg");
+      width: 300px;
+      height: 150px;
+      background-position: center center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+  }
+  .c{
+    h2,h3{
+      font-size: 15px;
+      color: #333;
+    }
+    .host{
+      background-image: url("https://a0.muscache.com/pictures/1ad4d764-38a6-464b-8fdd-b0f3339adf2f.jpg");
+      width: 300px;
+      height: 150px;
+      background-position: center center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+  }
+}
+
+.す{
+  .syuuekika{
+    margin: 0 auto;
+    background-image: url("https://a0.muscache.com/pictures/dbe25d99-6821-4e02-802f-fcd7aaef85bc.jpg");
+    width: 1200px;
+    height: 400px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}
+
+.せ{
+  margin: 50px 200px;
+  .conteiner{
+    display: flex;
+    .a{
+      ul{
+        list-style: none;
+      }
+    }
+    .b{
+      ul{
+        list-style: none;
+      }
+    }
+    .c{
+      ul{
+        list-style: none;
+      }
+    }
+    .d{
+      ul{
+        list-style: none;
+      }
+    }
+  }
+}
+
+.そ{
+  margin: 0 250px;
+  .a a{
+    color: #333;
+  }
+}
